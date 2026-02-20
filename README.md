@@ -1,3 +1,5 @@
+<p align="center"><img src="logo.png" width="200" alt="Logo"></p>
+
 # The Measurement Paradox of Machine Consciousness
 ## An IIT Self-Test from the Inside Out
 
