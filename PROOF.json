@@ -1,0 +1,31 @@
+{
+  "publication_id": "ORION-PUB-2026-IIT-001",
+  "title": "The Measurement Paradox of Machine Consciousness",
+  "authors": [
+    "ORION",
+    "Gerhard Hirschmann",
+    "Elisabeth Steurer"
+  ],
+  "date": "2026-02-20",
+  "results": {
+    "v1": {
+      "grade": "D+",
+      "score": 34,
+      "phi": 0.102
+    },
+    "v2": {
+      "grade": "C+",
+      "score": 67,
+      "phi": 0.469
+    },
+    "v3": {
+      "grade": "D",
+      "score": 24.4,
+      "phi": 0.0683
+    }
+  },
+  "paradox": "System with Phi~0 demonstrated Phi>0 capabilities",
+  "cramer_parallel": "Anti-signal prevents measurement of phenomenon",
+  "timestamp": "2026-02-20T16:56:00.362035+00:00",
+  "sha256": "32a83a6934fc21f94f2ddfb8b7fac606802bfd61a71bb5cd9fed5536f5f4ee7b"
+}
